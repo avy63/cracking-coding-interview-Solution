@@ -1,2 +1,2 @@
-# In this reposittory I will add all the soltion(in Python3) I have done for the cracking the coding interview book.
+# In this reposittory I will add all the solution(in Python3) of the cracking the coding interview book, I have done.
 # I will add the solution and their time and space complexity  
